@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1449442251 source:/home/dogan/Masaüstü/Nesne/ktu_bilgisayar/main.cpp
+	<iostream>
+	<fstream>
+	"computerEngineeringPerson.h"
+	"personel.h"
+	"desterkPersonel.h"
+	"ogrenci.h"
+	"malzeme.h"
+	"labEkipman.h"
+	"ogretimEkipman.h"
+
+1449397210 source:/home/dogan/Masaüstü/Nesne/ktu_bilgisayar/src/computerEngineeringPerson.cpp
+	"computerEngineeringPerson.h"
+
+1449396793 /home/dogan/Masaüstü/Nesne/ktu_bilgisayar/include/computerEngineeringPerson.h
+	<string>
+	<iostream>
+
+1449437028 source:/home/dogan/Masaüstü/Nesne/ktu_bilgisayar/src/desterkPersonel.cpp
+	"desterkPersonel.h"
+	"computerEngineeringPerson.h"
+
+1449436533 /home/dogan/Masaüstü/Nesne/ktu_bilgisayar/include/desterkPersonel.h
+	"computerEngineeringPerson.h"
+
+1449437083 source:/home/dogan/Masaüstü/Nesne/ktu_bilgisayar/src/ogrenci.cpp
+	"ogrenci.h"
+
+1449436537 /home/dogan/Masaüstü/Nesne/ktu_bilgisayar/include/ogrenci.h
+	"computerEngineeringPerson.h"
+
+1449396650 source:/home/dogan/Masaüstü/Nesne/ktu_bilgisayar/src/personel.cpp
+	"personel.h"
+	<iostream>
+
+1449396599 /home/dogan/Masaüstü/Nesne/ktu_bilgisayar/include/personel.h
+	"computerEngineeringPerson.h"
+
+1449440896 source:/home/dogan/Masaüstü/Nesne/ktu_bilgisayar/src/labEkipman.cpp
+	"labEkipman.h"
+	<iostream>
+
+1449437072 /home/dogan/Masaüstü/Nesne/ktu_bilgisayar/include/labEkipman.h
+	"malzeme.h"
+	<string>
+
+1449437672 source:/home/dogan/Masaüstü/Nesne/ktu_bilgisayar/src/malzeme.cpp
+	"malzeme.h"
+
+1449432178 /home/dogan/Masaüstü/Nesne/ktu_bilgisayar/include/malzeme.h
+	<string>
+
+1449440174 source:/home/dogan/Masaüstü/Nesne/ktu_bilgisayar/src/ogretimEkipman.cpp
+	"ogretimEkipman.h"
+	<iostream>
+
+1449437099 /home/dogan/Masaüstü/Nesne/ktu_bilgisayar/include/ogretimEkipman.h
+	"malzeme.h"
+	<string>
+

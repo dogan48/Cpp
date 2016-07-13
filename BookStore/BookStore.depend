@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1448116057 source:/home/dogan/Masaüstü/BookStore/BookStore/cashRegister.cpp
+	"cashRegister.h"
+	<iostream>
+
+1448116051 /home/dogan/Masaüstü/BookStore/BookStore/cashRegister.h
+
+1448116314 source:/home/dogan/Masaüstü/BookStore/BookStore/kitap.cpp
+	"kitap.h"
+
+1448116312 /home/dogan/Masaüstü/BookStore/BookStore/kitap.h
+	<string>
+	<iostream>
+	"yazar.h"
+
+1448115512 /home/dogan/Masaüstü/BookStore/BookStore/yazar.h
+	<string>
+
+1448118507 source:/home/dogan/Masaüstü/BookStore/BookStore/main.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+	<string>
+	"kitap.h"
+	"cashRegister.h"
+
+1448115492 source:/home/dogan/Masaüstü/BookStore/BookStore/yazar.cpp
+	"yazar.h"
+	<iostream>
+

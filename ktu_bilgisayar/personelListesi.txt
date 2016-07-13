@@ -1,0 +1,17 @@
+Ahmet Pasa O302 0
+Emre Yasar O304 500
+Hadi Kocabıyık P102 1500.0
+Ahmet Osman P103 1500.0
+Ali Can P104 1500.0
+Huseyin Unal P105 1500.0
+Ziya Bilgin D201 1600.0
+Ahmet Mehmet D202 1600.0
+Ali Veli D203 1600.0
+Mehmet Can P106 1500.0
+Ali Ata P109 1500.0
+Ahmet tarik P110 1500
+Salih Yıldız P111 1500
+Hadi Dogan O303 400
+Akın Barzan O301 0
+Mutlu Akın O305 100
+-1
